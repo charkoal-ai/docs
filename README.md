@@ -37,13 +37,13 @@ Keep all the pieces of information you need for your task in one place. Reveal c
 
 Capture symbols, code locations and selections to your canvas with sketch commands without distractions.
 
-<video src="./assets/capture-feature.mp4" autoplay loop></video>
+![Capture Feature Demo](./assets/capture-feature.gif)
 
 ### Break down complex ideas into manageable pieces 🔨
 
 Split canvases, link and nest them to represent complex ideas and architectures.
 
-<video src="./assets/nested-feature.mp4" autoplay loop></video>
+![Nested Feature Demo](./assets/nested-feature.gif)
 
 ### Code Canvas 🤝
 
@@ -51,7 +51,7 @@ Link any part of your code to your canvas. We support two types of links:
 - **Node Links** - you can capture any code symbol or file to your canvas as a special node.
 - **Text Links** - you can also reference any code symbol, or file or other canvas in your markdown text using `[[]]` notation. The autocomplete will suggest you options while typing.
 
-<video src="./assets/in-test-code.mp4" autoplay loop></video>
+![In Test Code Demo](./assets/in-text-code.gif)
 
 ### Share your insights with a team 📢
 
