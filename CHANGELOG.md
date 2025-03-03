@@ -4,6 +4,14 @@ All notable changes to the "Charkoal" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.9.12] - 2025-03-03
+
+- feat: screenshot
+- fix: multiple folders workspace
+- feat(internal): improve social links && feedback request
+- feat: support svg for file node
+- feat: shortcut f to toggle fullscreen && escape to close fullscreen
+
 ## [0.9.1] - 2025-02-24
 
 - feat: drop file from ide into canvas
