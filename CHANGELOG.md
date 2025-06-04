@@ -4,6 +4,37 @@ All notable changes to the "Charkoal" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.0-beta] - 2025-06-04
+
+- feat: ai (beta)
+- feat(whiteboard): new whiteboard command (have a canvas without having to save it in workspace)
+- feat: new ui colors
+- feat: add context menu (right click on canvas)
+- feat: node layout arrangements
+- feat: copy/paste images
+- feat: link preview (hover on link will give file preview)
+- feat: add fix position menu for edge (will find the closest path and update it)
+- feat: edge color
+- chore: improve menus ui/ux
+- chore: improve screenshot resolutions
+- chore: improve bezier curves
+- chore: improve nested canvas placeholder trigger
+- fix: fullscreen animation can no longer freeze
+- fix: edit edge/node can no longer trigger nested canvas shortcuts
+- fix: encapsulate nested-canvas shortcuts (avoid triggering parent canvas shortcuts)
+- fix: trigger edge creation from node only with left click
+- fix: remove shortcuts on cmd+k (overriding vscode ones)
+
+## [0.9.14] - 2025-03-16
+
+- chore: update keywords
+- chore: remove email barrier for feedback request
+
+## [0.9.13] - 2025-03-16
+
+- fix: horizontal scrolling on shift press
+- chore: add telemetry
+
 ## [0.9.12] - 2025-03-03
 
 - feat: screenshot
@@ -102,8 +133,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - feat(internal): added user focus manager VS code backend component
 - feat: tree view sidebar for backlinks
 - feat: icons
-    - for canvas files inside file explorer and workspace panel (lucide icon layout-dashboard)
-    - for new canvas command in sidebar (lucide icon package-plus)
+  - for canvas files inside file explorer and workspace panel (lucide icon layout-dashboard)
+  - for new canvas command in sidebar (lucide icon package-plus)
 - feat(internal): canvas is always rendered inside nested canvas node with canvas placeholder opaque on top of it
 
 ## [0.5.0] - 2024-11-08
