@@ -4,7 +4,17 @@ All notable changes to the "Charkoal" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [1.0.0-beta] - 2025-06-04
+## [1.0.2] - 2025-06-05
+
+- fix(theme): setup vscodedark theme properly
+
+## [1.0.1] - 2025-06-05
+
+- fix(ai): generated canvas should be selected in the middle
+- fix(ai): generated nodes/edges should have uniq ids
+- fix(ai): edges between containers && edge between far components
+
+## [1.0.0] - 2025-06-04
 
 - feat: ai (beta)
 - feat(whiteboard): new whiteboard command (have a canvas without having to save it in workspace)
