@@ -6,7 +6,7 @@ This is the public repository for Charkoal Canvas issues and bug tracking.
 
 - [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Charkoal.charkoal)
 - [Discord community](https://discord.gg/rQq5mjeaZm)
-- [charkoal.dev](https://charkoal.ai)
+- [charkoal.ai](https://charkoal.ai)
 - [JSON Canvas playground](https://jsoncanvas.charkoal.ai)
 
 ⚡ BETA ⚡: Charkoal is in early beta. Join our [Discord community](https://discord.gg/rQq5mjeaZm) to report bugs and shape the future!
